@@ -1,0 +1,24 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "cSpell.ignorePaths": [
+    "package-lock.json",
+    "package.json",
+    "node_modules",
+    "vscode-extension",
+    ".git/objects",
+    ".vscode",
+    ".vscode-insiders",
+    ".eslintrc.js"
+  ],
+  "terminal.integrated.fontSize": 16,
+  "editor.fontSize": 17,
+  "cSpell.ignoreWords": ["hachee", "automapper", "typeorm", "nvarchar"],
+  "cSpell.words": [
+    "datepicker",
+    "heroicons",
+    "languagedetector"
+  ],
+  "cSpell.languageSettings": []
+}
